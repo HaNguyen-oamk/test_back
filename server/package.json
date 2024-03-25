@@ -19,6 +19,10 @@
     "pg": "^8.11.3",
     "engines": {
       "node": ">=20.11.1"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "another-script": "you get the idea"
     }
   }
 }
